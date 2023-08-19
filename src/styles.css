@@ -6,3 +6,8 @@
 .board-container {
   margin: 20px;
 }
+.play-again-button {
+  display: block;
+  margin-top: 10px; 
+}
+
